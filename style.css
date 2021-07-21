@@ -48,7 +48,7 @@ color:var(--secondary-color);
 .link{
     box-sizing: border-box;
     text-decoration: none;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 0.5rem;
 }
 .primary-link{
     color:var(--primary-color);
@@ -96,7 +96,7 @@ color:var(--secondary-color);
 
 .list-item-inline{
   display: inline;
-  padding: 0rem 0.5rem;
+ 
 }
 
 
